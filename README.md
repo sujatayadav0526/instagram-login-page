@@ -14,7 +14,7 @@ A responsive Instagram-inspired login page built using HTML and CSS. The project
 
 ## Preview
 
-![Instagram Login Page](preview.png)
+![Instagram Login Page](preview.png.jpeg)
 
 ## Author
 sujata yadav
